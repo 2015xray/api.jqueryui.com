@@ -1,10 +1,10 @@
 # api.jqueryui.com
 
-## Building and Deploying
+## 绑定与部署
 
 To build and deploy your changes for previewing in a [`jquery-wp-content`](https://github.com/jquery/jquery-wp-content) instance, follow the [workflow instructions](http://contribute.jquery.org/web-sites/#workflow) from our documentation on [contributing to jQuery Foundation web sites](http://contribute.jquery.org/web-sites/).
 
-### Requirements
+### 要求
 
 * [libxml2](http://xmlsoft.org/)
 * [libxslt](http://xmlsoft.org/libxslt/)
